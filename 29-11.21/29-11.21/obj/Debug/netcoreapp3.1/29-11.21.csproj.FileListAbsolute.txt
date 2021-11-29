@@ -1,0 +1,14 @@
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\bin\Debug\netcoreapp3.1\29-11.21.exe
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\bin\Debug\netcoreapp3.1\29-11.21.deps.json
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\bin\Debug\netcoreapp3.1\29-11.21.runtimeconfig.json
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\bin\Debug\netcoreapp3.1\29-11.21.runtimeconfig.dev.json
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\bin\Debug\netcoreapp3.1\29-11.21.dll
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\bin\Debug\netcoreapp3.1\29-11.21.pdb
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\obj\Debug\netcoreapp3.1\29-11.21.csproj.AssemblyReference.cache
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\obj\Debug\netcoreapp3.1\29-11.21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\obj\Debug\netcoreapp3.1\29-11.21.AssemblyInfoInputs.cache
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\obj\Debug\netcoreapp3.1\29-11.21.AssemblyInfo.cs
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\obj\Debug\netcoreapp3.1\29-11.21.csproj.CoreCompileInputs.cache
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\obj\Debug\netcoreapp3.1\29-11.21.dll
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\obj\Debug\netcoreapp3.1\29-11.21.pdb
+C:\Users\SADIGOV\Desktop\Methods, Functions\29-11.21\29-11.21\obj\Debug\netcoreapp3.1\29-11.21.genruntimeconfig.cache
